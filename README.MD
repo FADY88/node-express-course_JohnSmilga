@@ -1,10 +1,14 @@
 # Node and Express Tutorial
 
-#### Node Course
+#### This is my progress of John Smilga's Node Course progress
 
-[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
+[Node Tutorial and Projects Course on Udemy](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
 
-#### Support
+Part 1: [Node & Express tutorial](https://youtu.be/Oe421EPjeBE?si=86T5xXqqbB1u_6ZH)
+
+Part 2: [first 4 projects on YouTube](https://youtu.be/qwfE7fSVaZM?si=K-Jkqo-jLR9bNG8l)
+
+#### Support John Smilga
 
 Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
@@ -19,7 +23,7 @@ Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.c
 
 #### Course Exclusive
 
-[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
+[Part 3 is available on Udemy](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
 
 7. File Upload (local and cloudinary)
 8. Send Email (nodemailer,ethereal and sendgrid )
